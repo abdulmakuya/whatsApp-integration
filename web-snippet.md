@@ -26,3 +26,6 @@
 	margin-top:16px;
         }
     
+
+To create your own link
+	https://faq.whatsapp.com/en/26000030/
