@@ -1,4 +1,5 @@
- Web
+ Web Method 1
+ 
     HTML
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
      <a href="https://api.whatsapp.com/send?phone=51955081075&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20Varela%202." class="float" target="_blank">
@@ -29,3 +30,9 @@
 
 To create your own link
 	https://faq.whatsapp.com/en/26000030/
+	
+Method 2
+	This is a 
+
+<a target="_blank" href="https://wa.me/255718038436?text=Hello!%20%0A%0AI%27d%20like%20to%20request%20one%20of%20your%20services." style="position:fixed; bottom:10px; left:0px;">
+		<img class="col-xs-6 col-sm-6" src="images/whatsappIcon.png"></a>
